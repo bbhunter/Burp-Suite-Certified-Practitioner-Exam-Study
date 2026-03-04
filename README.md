@@ -60,7 +60,7 @@
 ----  
 
 <br><br><a href="https://www.buymeacoffee.com/botesjuan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
->Thanks too all for your support by buying me ***coffee***, thanks you so much `\o/`  
+>Thanks for the supported ***coffee***, `\o/`   
   
 [My Burp Suite Certified Practitioner certificate.](https://portswigger.net/web-security/e/c/6e42f5738e5b9bf8?utm_source=office&utm_medium=email&utm_campaign=burp-prac-cert-pass-success)  
 
